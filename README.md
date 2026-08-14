@@ -244,18 +244,7 @@ Possible improvements include:
 * Support for additional language constructs
 * Improved user interaction
 
-## 👩‍💻 Team
 
-**Sheethal K Shetty**
-**Sindhushree Shetty**
-**Sunidhi Girish**
-
-**Department of Computer Science and Engineering**
-**NMAM Institute of Technology, Nitte**
-
-**Course:** Compiler Design Lab
-**Course Code:** CS3602-1
-**Semester:** VI Semester – Section D
 
 ## 📚 References
 
